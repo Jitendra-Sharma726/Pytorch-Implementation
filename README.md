@@ -1,1 +1,1 @@
-# Pytorch-Implementation
+# Image Detection Using Pytorch
